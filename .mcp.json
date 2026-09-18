@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "today-date": {
+      "type": "stdio",
+      "command": "python3",
+      "args": ["/Users/elisa.yu/Desktop/mySkill_9019/mcp_server.py"],
+      "description": "获取今天的日期"
+    }
+  }
+}
